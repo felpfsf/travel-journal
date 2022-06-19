@@ -73,7 +73,7 @@ export const TravelCards = props => {
           <span className='travelLocation'>{props.title}</span>
           <span className='gmapsLink'>
             <a
-              href={'https://styled-components.com/docs/basics#installation'}
+              href={props.googleMapsUrl}
               target={'_blank'}>
               View on Google Maps
             </a>

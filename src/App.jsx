@@ -10,10 +10,17 @@ import { TravelCards } from './components/TravelCards/TravelCards'
 import travelData from './data/data'
 
 const MainWrapper = styled.div`
+  max-width: 550px;
+
   margin-block: 5vh;
   margin-inline: auto;
-  max-width: 550px;
+
   background-color: #fff;
+
+  border-radius: 10px;
+
+  -webkit-box-shadow: -10px 10px 15px -8px #000000;
+  box-shadow: -10px 10px 15px -8px #000000;
 
   display: flex;
   flex-direction: column;
@@ -27,7 +34,7 @@ const TravelCardsWrapper = styled.div`
   display: flex;
   flex-direction: column;
   gap: 18px;
-  
+
   overflow-y: auto;
   scrollbar-gutter: stable both-edges;
 `
