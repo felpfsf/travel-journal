@@ -1,6 +1,7 @@
 <div align="center">
 
-  [English version](/Readme/README-en.md)
+  :uk: [English version](/Readme/README-en.md) / [Pt-BR version](../README.md)
+  
   ![image]('/../Readme/My-Travel-Journal.png/)
 
   ![GitHub repo size](https://img.shields.io/github/repo-size/felpfsf/travel-journal) ![GitHub language count](https://img.shields.io/github/languages/count/felpfsf/travel-journal) ![GitHub top language](https://img.shields.io/github/languages/top/felpfsf/travel-journal)
